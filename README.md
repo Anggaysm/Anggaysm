@@ -1,5 +1,4 @@
-[![MasterHead]https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif
-
+<img alt="coding" src="https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif" />
 
 
 <h1 align="center">Hi 👋, I'm Angga Yusma Prasetia</h1>
