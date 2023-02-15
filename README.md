@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/86825240/219049080-c4eaba08-ebd3-4291-b4c0-6ef15842f918.png)
+![image](https://user-images.githubusercontent.com/86825240/219049457-09af1a32-e596-4167-a483-7774eca536cc.png)
+
 
 
 <h1 align="center">Hi 👋, I'm Angga Yusma Prasetia</h1>
