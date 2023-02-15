@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]https://www.google.com/url?sa=i&url=https%3A%2F%2Ftalukdarit.com%2F&psig=AOvVaw2IOTW4jj7tdM2OWBCZ8zaM&ust=1676554863725000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOiYpdrTl_0CFQAAAAAdAAAAABA_
 
 <h1 align="center">Hi 👋, I'm Angga Yusma Prasetia</h1>
 <h3 align="center">A passionate frontend developer | web developer from Jakarta, Indonesia</h3>
