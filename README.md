@@ -1,4 +1,5 @@
-[![MasterHead]https://www.google.com/url?sa=i&url=https%3A%2F%2Ftalukdarit.com%2F&psig=AOvVaw2IOTW4jj7tdM2OWBCZ8zaM&ust=1676554863725000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOiYpdrTl_0CFQAAAAAdAAAAABA_
+![image](https://user-images.githubusercontent.com/86825240/219049080-c4eaba08-ebd3-4291-b4c0-6ef15842f918.png)
+
 
 <h1 align="center">Hi 👋, I'm Angga Yusma Prasetia</h1>
 <h3 align="center">A passionate frontend developer | web developer from Jakarta, Indonesia</h3>
