@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Angga Yusma Prasetia</h1>
 <h3 align="center">A passionate frontend developer | web developer from Jakarta, Indonesia</h3>
