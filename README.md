@@ -4,7 +4,7 @@ https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-
 
 <h1 align="center">Hi 👋, I'm Angga Yusma Prasetia</h1>
 <h3 align="center">A passionate frontend developer | web developer from Jakarta, Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" />
+<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anggaysm&label=Profile%20views&color=0e75b6&style=flat" alt="anggaysm" /> </p>
 
