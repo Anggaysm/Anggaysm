@@ -1,4 +1,4 @@
-<img alt="coding" src="https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif" />
+<img alt="coding" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" />
 
 
 <h1 align="center">Hi 👋, I'm Angga Yusma Prasetia</h1>
