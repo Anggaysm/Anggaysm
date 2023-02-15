@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Angga Yusma Prasetia</h1>
 <h3 align="center">A passionate frontend developer | web developer from Jakarta, Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif" />
+<img align="right" alt="Coding" width="400" src="[https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.wouterbongaerts.com%2Fgif&psig=AOvVaw3fD9aFw5RSl99WvqrHiA_0&ust=1676554329548000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMic0tvRl_0CFQAAAAAdAAAAABAw)" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anggaysm&label=Profile%20views&color=0e75b6&style=flat" alt="anggaysm" /> </p>
 
