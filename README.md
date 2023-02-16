@@ -1,4 +1,4 @@
-<img alt="coding" src="https://64.media.tumblr.com/2c8a52b9de4e94f6f37cc4bdfc7e063d/fb31827912e6a343-e6/s1280x1920/78c42292025435c065bb288b23cd94bc744c948c.gif" />
+<img alt="coding" src="https://i.pinimg.com/originals/7a/fd/d6/7afdd6915a8219f5dcdb89ff990a9a72.gif" />
 
 
 <h1 align="center">Hi 👋, I'm Angga Yusma Prasetia</h1>
