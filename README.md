@@ -1,4 +1,4 @@
-<img alt="coding" src="https://i.pinimg.com/originals/fe/47/bc/fe47bcf86fef244c8e550a4210ee9d9f.gif" />
+<img alt="coding" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9e4606da-0f81-4537-97b6-1bc18bd9b3a1/dcq2u75-29323981-19d6-4fda-89df-fa28c7dd720e.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzllNDYwNmRhLTBmODEtNDUzNy05N2I2LTFiYzE4YmQ5YjNhMVwvZGNxMnU3NS0yOTMyMzk4MS0xOWQ2LTRmZGEtODlkZi1mYTI4YzdkZDcyMGUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.iy1OEMc0F68ksKYTht-jSqij-8uTv6zLknnVxCcdsBY" />
 
 
 <h1 align="center">Hi 👋, I'm Angga Yusma Prasetia</h1>
