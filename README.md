@@ -1,4 +1,4 @@
-<img alt="coding" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9e4606da-0f81-4537-97b6-1bc18bd9b3a1/dcq2u75-29323981-19d6-4fda-89df-fa28c7dd720e.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzllNDYwNmRhLTBmODEtNDUzNy05N2I2LTFiYzE4YmQ5YjNhMVwvZGNxMnU3NS0yOTMyMzk4MS0xOWQ2LTRmZGEtODlkZi1mYTI4YzdkZDcyMGUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.iy1OEMc0F68ksKYTht-jSqij-8uTv6zLknnVxCcdsBY" />
+<img alt="coding" src="https://64.media.tumblr.com/2c8a52b9de4e94f6f37cc4bdfc7e063d/fb31827912e6a343-e6/s1280x1920/78c42292025435c065bb288b23cd94bc744c948c.gif" />
 
 
 <h1 align="center">Hi 👋, I'm Angga Yusma Prasetia</h1>
