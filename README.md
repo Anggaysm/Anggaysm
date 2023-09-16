@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently studying on [Politeknik Negeri Jakarta](https://pnj.ac.id/)
 
-- 🌱 I’m currently learning **React | Flutter**
+- 🌱 I’m currently learning **React | Kotlin**
 
 - 💬 Ask me about **basic web**
 
